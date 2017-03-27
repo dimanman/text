@@ -1,0 +1,13 @@
+.sprite1{ background:url("sprite1.png") top left no-repeat; }
+.sprite1_r4_c2{ width:32px; height:32px; background-position:-10px -10px; }
+.sprite1_r4_c2_1{ width:32px; height:32px; background-position:-10px -52px; }
+.sprite1_r4_c4{ width:32px; height:32px; background-position:-10px -94px; }
+.sprite1_r4_c6{ width:32px; height:32px; background-position:-10px -136px; }
+.sprite1_r4_c8{ width:32px; height:32px; background-position:-10px -178px; }
+.sprite1_r4_c10{ width:32px; height:32px; background-position:-10px -220px; }
+.sprite1_r2_c10{ width:32px; height:32px; background-position:-10px -262px; }
+.sprite1_r2_c8{ width:32px; height:32px; background-position:-10px -304px; }
+.sprite1_r2_c6{ width:32px; height:32px; background-position:-10px -346px; }
+.sprite1_r2_c4{ width:32px; height:32px; background-position:-10px -388px; }
+.sprite1_r2_c2{ width:32px; height:32px; background-position:-10px -430px; }
+
